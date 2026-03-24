@@ -1,6 +1,6 @@
-# Privacy Policy
+# Oekelino — Privacy Policy
 
-This privacy policy is applicable to the Oekelino app (hereinafter referred to as "Application") for mobile devices, which was developed by Samuel Spithorst (hereinafter referred to as "Service Provider") as a Freemium service. This service is provided "AS IS".
+This privacy policy applies to the Oekelino app for iOS, developed by Samuel Spithorst as a Freemium service. This service is provided "AS IS".
 
 ## What information does the Application obtain and how is it used?
 
@@ -65,7 +65,7 @@ By using the Application, you are giving your consent to the Service Provider pr
 
 ## How can you contact us?
 
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at sfspithorst@gmail.com.
+If you have any questions regarding privacy while using Oekelino, or have questions about these practices, please contact Samuel Spithorst via email at sfspithorst@gmail.com.
 
 ---
 
