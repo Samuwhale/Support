@@ -1,72 +1,74 @@
-# Oekelino — Privacy Policy
+# Privacy Policy
 
-This privacy policy applies to the Oekelino app for iOS, developed by Samuel Spithorst as a Freemium service. This service is provided "AS IS".
+Effective date: 2026-05-13
 
-## What information does the Application obtain and how is it used?
+This privacy policy applies to iOS apps made by Samuel Spithorst, including Pitch Please and Oekelino.
 
-The Application acquires the information you supply when you download and register the Application. Registration with the Service Provider is not mandatory. However, bear in mind that you might not be able to utilize some of the features offered by the Application unless you register with them.
+If you have questions about this policy, contact [sfspithorst@gmail.com](mailto:sfspithorst@gmail.com).
 
-The Service Provider may also use the information you provided them to contact you from time to time to provide you with important information, required notices and marketing promotions.
+## Pitch Please
 
-## What information does the Application collect automatically?
+Pitch Please provides music practice tools including a tuner, vocal pitch tracking, metronome, note reading, and piano reference.
 
-In addition, the Application may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile device's unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, and information about the way you use the Application.
+### Microphone
 
-## Does the Application collect precise real time location information of the device?
+Pitch Please uses microphone access when you use tuning or vocal pitch features.
 
-This Application does not gather precise information about the location of your mobile device.
+Microphone audio is processed on your device to estimate pitch and related practice information. Pitch Please does not upload microphone audio to a server controlled by Samuel Spithorst.
 
-## Does the Application use Artificial Intelligence (AI) technologies?
+You can disable microphone access at any time in iOS Settings.
 
-The Application uses Artificial Intelligence (AI) technologies to enhance user experience and provide certain features. The AI components may process user data in the following ways:
+### Purchases
 
-- **Personalized Content:** AI may analyze your usage patterns to deliver content tailored to your preferences and behavior.
-- **Recommendations:** AI may suggest features, services, or content based on your interactions within the Application.
-- **Automated Functionalities:** Certain app features may be powered by AI to automate tasks or improve efficiency.
-- **Data Protection:** All AI processing is performed in accordance with this privacy policy and applicable laws, ensuring your data is handled securely and responsibly.
+Pitch Please offers optional in-app purchases through Apple's StoreKit system.
 
-## Do third parties see and/or have access to information obtained by the Application?
+Purchase processing, subscription management, refunds, and billing are handled by Apple. Pitch Please receives purchase entitlement information from Apple so the app can unlock premium features.
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+### Advertising And Consent
 
-The Service Provider may disclose User Provided and Automatically Collected Information:
+Pitch Please uses Google Mobile Ads and Google's User Messaging Platform to show ads and manage consent where required.
 
-- as required by law, such as to comply with a subpoena, or similar legal process;
-- when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-- with their trusted service providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+Google and its advertising partners may process information such as device information, ad interactions, approximate location inferred from network data, identifiers, and consent choices according to Google's policies and the choices available in your region.
 
-## What are my opt-out rights?
+When privacy options are available, they can be managed through the app.
 
-You can halt all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+### App Data
 
-## What is the data retention policy and how can you manage your information?
+Pitch Please stores app preferences and practice state locally on your device using iOS storage. Samuel Spithorst does not operate a separate backend service for Pitch Please user accounts.
 
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. The Service Provider will retain Automatically Collected information for up to 24 months and thereafter may store it in aggregate. If you'd like the Service Provider to delete User Provided Data that you have provided via the Application, please contact them at sfspithorst@gmail.com and we will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly.
+## Oekelino
 
-## How does the Application address children's privacy?
+Oekelino is a personal word collection app.
 
-The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
+Oekelino stores app data on your device and may sync data through your personal iCloud account when iCloud sync is enabled. Samuel Spithorst does not operate a separate backend service for Oekelino user accounts.
 
-The Service Provider does not knowingly collect personally identifiable information from children. The Service Provider encourages all children to never submit any personally identifiable information through the Application and/or Services. Parents and legal guardians are encouraged to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and/or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to the Service Provider through the Application and/or Services, please contact the Service Provider at sfspithorst@gmail.com so that they will be able to take the necessary actions. You must also be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries we may allow your parent or guardian to do so on your behalf).
+## Support Requests
 
-## How is your information kept secure?
+If you contact support by email or through GitHub, the information you include in that message or issue is used to understand and respond to your request.
 
-The Service Provider are concerned about safeguarding the confidentiality of your information. The Service Provider provide physical, electronic, and procedural safeguards to protect information we process and maintain. For example, we limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop or improve their Application. Please be aware that, although we endeavor to provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.
+Do not include sensitive personal information in public GitHub issues.
 
-## How will you be informed of changes to this Privacy Policy?
+## Children
 
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+These apps are not directed to children under 13, and Samuel Spithorst does not knowingly collect personal information from children under 13.
 
-This privacy policy is effective as of 2026-03-24.
+## Data Retention
 
-## How do you give your consent?
+Data stored locally in an app remains on your device unless you delete it, uninstall the app, or remove it through app controls where available.
 
-By using the Application, you are giving your consent to the Service Provider processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing" means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information.
+Support messages are retained as needed to respond to the request and maintain project history.
 
-## How can you contact us?
+## Third-Party Services
 
-If you have any questions regarding privacy while using Oekelino, or have questions about these practices, please contact Samuel Spithorst via email at sfspithorst@gmail.com.
+The apps may rely on platform or third-party services, including:
 
----
+- Apple App Store and StoreKit for downloads, purchases, and subscriptions
+- Apple iCloud for user-enabled sync in apps that support it
+- Google Mobile Ads and Google User Messaging Platform for ads and consent in Pitch Please
+- GitHub for public support issues
 
-*This privacy policy page was generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)*
+Those services process information according to their own privacy policies and user settings.
+
+## Changes
+
+This policy may be updated when app features, third-party services, or legal requirements change. The latest version will be published on this page.

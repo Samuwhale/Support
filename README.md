@@ -1,39 +1,53 @@
 # Support
 
-by Samuel Spithorst
+Support for apps made by Samuel Spithorst.
 
-This is the support page for apps made by Samuel Spithorst. If you have a question, found a bug, or want to share feedback, you're in the right place.
-
----
+If you found a bug, have a question, or want to request a feature, use one of the contact options below.
 
 ## Contact
 
 **Email:** [sfspithorst@gmail.com](mailto:sfspithorst@gmail.com)
 
-**GitHub:** [Open an issue](https://github.com/Samuwhale/Support/issues/new) on this repository — good for bug reports, feature requests, or anything you'd like to track publicly.
-
----
-
-## FAQ
-
-**My data is not syncing across devices.**
-All apps use iCloud to sync data between your devices. Make sure you are signed into iCloud on all devices and that iCloud Drive is enabled in Settings. It may take a few minutes for changes to propagate. If sync remains stuck, toggling iCloud off and back on in Settings can help.
-
-**I am not receiving notifications.**
-Check that notifications are enabled for the app under Settings > Notifications. Some apps also have per-feature notification settings inside the app itself — make sure those are turned on as well.
-
-**How is my data stored? Is it private?**
-Your data is stored on-device and synced privately through your personal iCloud account. It is not stored on any external server, and Samuel Spithorst does not have access to your data.
-
-**How do I report a bug?**
-The fastest way is to [open a GitHub issue](https://github.com/Samuwhale/Support/issues/new). Please include your device model, iOS version, and a description of what happened. Screenshots are always helpful.
-
----
+**GitHub:** [Open an issue](https://github.com/Samuwhale/Support/issues/new) for bug reports, feature requests, and public follow-up.
 
 ## Apps
 
-**Oekelino** — A personal word collection app for language learners and curious word lovers. Save interesting words, track your learning, and build a collection worth returning to.
+### Rolless
 
----
+Rolless helps you review photo cleanup candidates on your iPhone.
 
-More apps will appear here as they are released.
+Rolless scans visible Photo Library items on your device. It does not upload your photos, require an account, or delete automatically. Photos asks for confirmation before deletion.
+
+For useful bug reports, include:
+
+- device model
+- iOS version
+- Photo Library access setting
+- what you expected to happen
+- what actually happened
+
+### Pitch Please
+
+Pitch Please is a music practice toolkit with tuning, vocal pitch tracking, note reading, piano reference, and metronome tools.
+
+For useful bug reports, include:
+
+- device model
+- iOS version
+- the tool you were using
+- what you expected to happen
+- what actually happened
+
+Pitch and microphone analysis runs on your device. If microphone input does not work, check that microphone permission is enabled in iOS Settings.
+
+### Oekelino
+
+Oekelino is a personal word collection app for language learners and curious word lovers.
+
+If sync does not appear immediately, confirm that iCloud Drive is enabled and that the same Apple account is signed in on each device.
+
+## Privacy
+
+The current privacy policy is available at:
+
+[Privacy Policy](./privacy-policy)
