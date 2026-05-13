@@ -2,39 +2,31 @@
 
 Effective date: 2026-05-13
 
-This privacy policy applies to iOS apps made by Samuel Spithorst, including Pitch Please and Oekelino.
+This policy applies to iOS apps made by Samuel Spithorst, including Rolless, Pitch Please, and Oekelino.
 
-If you have questions about this policy, contact [sfspithorst@gmail.com](mailto:sfspithorst@gmail.com).
+Contact: [sfspithorst@gmail.com](mailto:sfspithorst@gmail.com)
+
+## Rolless
+
+Rolless helps you review photo cleanup candidates on your iPhone.
+
+Rolless scans Photo Library items that you allow it to see. That scan runs on your device. Rolless does not upload your photos to a server controlled by Samuel Spithorst, require an account, or use analytics.
+
+Rolless can ask Photos to delete items you placed in Pending. Photos shows its own confirmation before deletion. Rolless does not delete automatically.
+
+Rolless stores cleanup state and app preferences on your device.
 
 ## Pitch Please
 
-Pitch Please provides music practice tools including a tuner, vocal pitch tracking, metronome, note reading, and piano reference.
+Pitch Please provides music practice tools, including a tuner, vocal pitch tracking, metronome, note reading, and piano reference.
 
-### Microphone
+Pitch Please uses microphone access when you use tuning or vocal pitch features. Audio is processed on your device to estimate pitch. Pitch Please does not upload microphone audio to a server controlled by Samuel Spithorst.
 
-Pitch Please uses microphone access when you use tuning or vocal pitch features.
+Pitch Please offers optional in-app purchases through Apple's StoreKit system. Apple handles purchase processing, subscription management, refunds, and billing. Pitch Please receives purchase entitlement information from Apple to unlock premium features.
 
-Microphone audio is processed on your device to estimate pitch and related practice information. Pitch Please does not upload microphone audio to a server controlled by Samuel Spithorst.
+Pitch Please uses Google Mobile Ads and Google's User Messaging Platform to show ads and manage consent where required. Google and its advertising partners may process device information, ad interactions, approximate location inferred from network data, identifiers, and consent choices according to Google's policies and your regional choices.
 
-You can disable microphone access at any time in iOS Settings.
-
-### Purchases
-
-Pitch Please offers optional in-app purchases through Apple's StoreKit system.
-
-Purchase processing, subscription management, refunds, and billing are handled by Apple. Pitch Please receives purchase entitlement information from Apple so the app can unlock premium features.
-
-### Advertising And Consent
-
-Pitch Please uses Google Mobile Ads and Google's User Messaging Platform to show ads and manage consent where required.
-
-Google and its advertising partners may process information such as device information, ad interactions, approximate location inferred from network data, identifiers, and consent choices according to Google's policies and the choices available in your region.
-
-When privacy options are available, they can be managed through the app.
-
-### App Data
-
-Pitch Please stores app preferences and practice state locally on your device using iOS storage. Samuel Spithorst does not operate a separate backend service for Pitch Please user accounts.
+Pitch Please stores app preferences and practice state on your device.
 
 ## Oekelino
 
@@ -44,13 +36,13 @@ Oekelino stores app data on your device and may sync data through your personal 
 
 ## Support Requests
 
-If you contact support by email or through GitHub, the information you include in that message or issue is used to understand and respond to your request.
+If you contact support by email or through GitHub, Samuel Spithorst uses the information you include to understand and respond to your request.
 
 Do not include sensitive personal information in public GitHub issues.
 
 ## Children
 
-These apps are not directed to children under 13, and Samuel Spithorst does not knowingly collect personal information from children under 13.
+These apps are not directed to children under 13. Samuel Spithorst does not knowingly collect personal information from children under 13.
 
 ## Data Retention
 
