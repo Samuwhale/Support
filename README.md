@@ -51,3 +51,9 @@ If sync does not appear immediately, confirm that iCloud Drive is enabled and th
 The current privacy policy is available at:
 
 [Privacy Policy](./privacy-policy)
+
+## Terms
+
+The current terms of use are available at:
+
+[Terms of Use](./terms-of-use)

@@ -34,6 +34,10 @@ Oekelino is a personal word collection app.
 
 Oekelino stores app data on your device and may sync data through your personal iCloud account when iCloud sync is enabled. Samuel Spithorst does not operate a separate backend service for Oekelino user accounts.
 
+Oekelino offers optional in-app purchases through Apple's StoreKit system. Apple handles purchase processing, subscription management, refunds, and billing. Oekelino receives purchase entitlement information from Apple to unlock premium features.
+
+Oekelino uses Google Mobile Ads and Google's User Messaging Platform to show ads and manage consent where required. Google and its advertising partners may process device information, ad interactions, approximate location inferred from network data, identifiers, and consent choices according to Google's policies and your regional choices.
+
 ## Support Requests
 
 If you contact support by email or through GitHub, Samuel Spithorst uses the information you include to understand and respond to your request.
@@ -56,7 +60,7 @@ The apps may rely on platform or third-party services, including:
 
 - Apple App Store and StoreKit for downloads, purchases, and subscriptions
 - Apple iCloud for user-enabled sync in apps that support it
-- Google Mobile Ads and Google User Messaging Platform for ads and consent in Pitch Please
+- Google Mobile Ads and Google User Messaging Platform for ads and consent in Pitch Please and Oekelino
 - GitHub for public support issues
 
 Those services process information according to their own privacy policies and user settings.
