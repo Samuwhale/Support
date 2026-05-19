@@ -10,6 +10,10 @@ If you found a bug, have a question, or want to request a feature, use one of th
 
 **GitHub:** [Open an issue](https://github.com/Samuwhale/Support/issues/new) for bug reports, feature requests, and public follow-up.
 
+## Nederlands
+
+Ondersteuning voor Oekelino is ook in het Nederlands beschikbaar. Stuur een e-mail naar [sfspithorst@gmail.com](mailto:sfspithorst@gmail.com) met je apparaatmodel, iOS-versie, appversie en een korte beschrijving van wat je verwachtte en wat er gebeurde.
+
 ## Apps
 
 ### Rolless
@@ -45,6 +49,8 @@ Pitch and microphone analysis runs on your device. If microphone input does not 
 Oekelino is a personal word collection app for language learners and curious word lovers.
 
 If sync does not appear immediately, confirm that iCloud Drive is enabled and that the same Apple account is signed in on each device.
+
+Oekelino is beschikbaar voor Engelstalige en Nederlandstalige leerlingen die Italiaans oefenen. Vermeld bij vragen over Nederlandse inhoud of screenshots welke taal in de app actief is.
 
 ## Privacy
 

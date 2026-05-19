@@ -1,6 +1,6 @@
 # Terms of Use
 
-Effective date: 2026-05-15
+Effective date: 2026-05-19
 
 These terms apply to iOS apps made by Samuel Spithorst, including Rolless, Pitch Please, and Oekelino.
 
@@ -41,3 +41,47 @@ The privacy policy is available at:
 ## Changes
 
 These terms may be updated when app features, third-party services, or legal requirements change. The latest version will be published on this page.
+
+# Gebruiksvoorwaarden
+
+Ingangsdatum: 2026-05-19
+
+Deze voorwaarden gelden voor iOS-apps van Samuel Spithorst, waaronder Rolless, Pitch Please en Oekelino.
+
+Contact: [sfspithorst@gmail.com](mailto:sfspithorst@gmail.com)
+
+## App Store-voorwaarden
+
+Downloads, in-app aankopen, abonnementen, terugbetalingen, facturering, gezinsdeling en abonnementbeheer worden door Apple afgehandeld via de App Store en StoreKit.
+
+Tenzij een app aparte aangepaste voorwaarden toont, gebruiken betaalde apps en in-app aankopen Apple's standaard Licensed Application End User License Agreement:
+
+[Apple Standard EULA](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
+
+## Abonnementen
+
+Sommige apps kunnen automatisch verlengende abonnementen aanbieden. Abonnementsduur, prijs, verlengingsvoorwaarden en annuleringsopties worden getoond in de aankoopflow van de app en in Apple's aankoopscherm voordat je koopt.
+
+Abonnementen worden automatisch verlengd totdat je opzegt. Je kunt abonnementen beheren of annuleren in je Apple Account-instellingen. Annuleer minstens 24 uur voor het einde van de huidige factureringsperiode om verlenging te voorkomen.
+
+## Advertenties
+
+Sommige apps kunnen advertenties tonen. Waar dat vereist is, kan de app om toestemming vragen voordat gepersonaliseerde advertenties worden aangevraagd. Premiumaankopen kunnen advertenties verwijderen wanneer de aankoopflow van de app dat voordeel beschrijft.
+
+## Aanvaardbaar gebruik
+
+Gebruik de apps rechtmatig en probeer de apps, App Store-diensten, iCloud, advertentiediensten of supportkanalen niet te verstoren, reverse-engineeren of misbruiken.
+
+## Support
+
+Support wordt aangeboden via e-mail of GitHub wanneer beschikbaar. Samuel Spithorst kan appfuncties na verloop van tijd bijwerken, wijzigen of stopzetten.
+
+## Privacy
+
+Het privacybeleid is beschikbaar op:
+
+[Privacybeleid](./privacy-policy)
+
+## Wijzigingen
+
+Deze voorwaarden kunnen worden bijgewerkt wanneer appfuncties, diensten van derden of wettelijke vereisten veranderen. De nieuwste versie wordt op deze pagina gepubliceerd.

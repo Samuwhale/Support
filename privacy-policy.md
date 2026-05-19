@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Effective date: 2026-05-13
+Effective date: 2026-05-19
 
 This policy applies to iOS apps made by Samuel Spithorst, including Rolless, Pitch Please, and Oekelino.
 
@@ -68,3 +68,74 @@ Those services process information according to their own privacy policies and u
 ## Changes
 
 This policy may be updated when app features, third-party services, or legal requirements change. The latest version will be published on this page.
+
+# Privacybeleid
+
+Ingangsdatum: 2026-05-19
+
+Dit beleid geldt voor iOS-apps van Samuel Spithorst, waaronder Rolless, Pitch Please en Oekelino.
+
+Contact: [sfspithorst@gmail.com](mailto:sfspithorst@gmail.com)
+
+## Rolless
+
+Rolless helpt je op je iPhone foto's te beoordelen die mogelijk kunnen worden opgeruimd.
+
+Rolless scant de Foto's-bibliotheekitems waarvoor je toegang geeft. Die scan gebeurt op je apparaat. Rolless uploadt je foto's niet naar een server van Samuel Spithorst, vereist geen account en gebruikt geen analytics.
+
+Rolless kan Foto's vragen om items te verwijderen die je in Wachtend hebt geplaatst. Foto's toont daarvoor een eigen bevestiging. Rolless verwijdert niet automatisch.
+
+Rolless bewaart opruimstatus en appvoorkeuren op je apparaat.
+
+## Pitch Please
+
+Pitch Please biedt hulpmiddelen voor muziekoefening, waaronder een stemapparaat, zangtoonhoogte, metronoom, noten lezen en pianoreferentie.
+
+Pitch Please gebruikt microfoontoegang wanneer je stem- of toonhoogtefuncties gebruikt. Audio wordt op je apparaat verwerkt om toonhoogte te schatten. Pitch Please uploadt microfoonaudio niet naar een server van Samuel Spithorst.
+
+Pitch Please biedt optionele in-app aankopen via Apple's StoreKit-systeem. Apple verwerkt aankopen, abonnementen, terugbetalingen en facturering. Pitch Please ontvangt aankooprechten van Apple om premiumfuncties te ontgrendelen.
+
+Pitch Please gebruikt Google Mobile Ads en Google's User Messaging Platform om advertenties te tonen en toestemming te beheren waar dat vereist is. Google en advertentiepartners kunnen apparaatinformatie, advertentie-interacties, geschatte locatie op basis van netwerkgegevens, identifiers en toestemmingskeuzes verwerken volgens Google's beleid en je regionale keuzes.
+
+Pitch Please bewaart appvoorkeuren en oefenstatus op je apparaat.
+
+## Oekelino
+
+Oekelino is een persoonlijke woordcollectie-app.
+
+Oekelino bewaart appgegevens op je apparaat en kan gegevens synchroniseren via je persoonlijke iCloud-account wanneer iCloud-synchronisatie is ingeschakeld. Samuel Spithorst beheert geen aparte backendservice voor Oekelino-gebruikersaccounts.
+
+Oekelino biedt optionele in-app aankopen via Apple's StoreKit-systeem. Apple verwerkt aankopen, abonnementen, terugbetalingen en facturering. Oekelino ontvangt aankooprechten van Apple om premiumfuncties te ontgrendelen.
+
+Oekelino gebruikt Google Mobile Ads en Google's User Messaging Platform om advertenties te tonen en toestemming te beheren waar dat vereist is. Google en advertentiepartners kunnen apparaatinformatie, advertentie-interacties, geschatte locatie op basis van netwerkgegevens, identifiers en toestemmingskeuzes verwerken volgens Google's beleid en je regionale keuzes.
+
+## Supportverzoeken
+
+Als je support per e-mail of via GitHub benadert, gebruikt Samuel Spithorst de informatie die je meestuurt om je verzoek te begrijpen en te beantwoorden.
+
+Plaats geen gevoelige persoonlijke informatie in openbare GitHub-issues.
+
+## Kinderen
+
+Deze apps zijn niet gericht op kinderen jonger dan 13 jaar. Samuel Spithorst verzamelt niet bewust persoonlijke informatie van kinderen jonger dan 13 jaar.
+
+## Bewaartermijn
+
+Gegevens die lokaal in een app worden opgeslagen, blijven op je apparaat totdat je ze verwijdert, de app verwijdert of ze via beschikbare appfuncties wist.
+
+Supportberichten worden bewaard zolang dat nodig is om het verzoek te beantwoorden en projectgeschiedenis te onderhouden.
+
+## Diensten van derden
+
+De apps kunnen platform- of derdendiensten gebruiken, waaronder:
+
+- Apple App Store en StoreKit voor downloads, aankopen en abonnementen
+- Apple iCloud voor door gebruikers ingeschakelde synchronisatie in apps die dit ondersteunen
+- Google Mobile Ads en Google User Messaging Platform voor advertenties en toestemming in Pitch Please en Oekelino
+- GitHub voor openbare supportissues
+
+Deze diensten verwerken informatie volgens hun eigen privacybeleid en gebruikersinstellingen.
+
+## Wijzigingen
+
+Dit beleid kan worden bijgewerkt wanneer appfuncties, diensten van derden of wettelijke vereisten veranderen. De nieuwste versie wordt op deze pagina gepubliceerd.
