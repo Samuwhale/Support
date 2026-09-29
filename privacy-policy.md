@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Effective date: 2026-05-19
+Effective date: 2026-09-29
 
 This policy applies to iOS apps made by Samuel Spithorst, including Rolless, Pitch Please, and Oekelino.
 
@@ -28,6 +28,10 @@ Pitch Please uses Google Mobile Ads and Google's User Messaging Platform to show
 
 Pitch Please stores app preferences and practice state on your device.
 
+If you choose Share Usage and Diagnostics, Pitch Please uses Google Firebase Analytics, Crashlytics, and Performance Monitoring to understand tool usage, returning usage, crashes, and performance. This can include app installation identifiers, app and device information, approximate location inferred from network information, tool and screen interactions, exercise outcomes, purchase-flow outcomes, and diagnostic data. Microphone audio, pitch history, custom tuning names, and purchase receipts are not included.
+
+This usage and diagnostics data is not used for personalized advertising. The sharing choice is separate from ad consent. You can turn sharing off in Settings at any time. Turning sharing off stops further telemetry collection and upload and clears pending local Analytics data and available unsent crash reports. It does not delete data already processed by Google. Installation identifiers measure returning usage within an app installation; they do not identify you by name or email.
+
 ## Oekelino
 
 Oekelino is a personal word collection app.
@@ -54,6 +58,8 @@ Data stored locally in an app remains on your device unless you delete it, unins
 
 Support messages are retained as needed to respond to the request and maintain project history.
 
+For Pitch Please, usage and diagnostics data sent after your consent is retained in Google Firebase and Google Analytics according to the configured service retention settings and Google's policies. If you have questions about this data or want to request deletion, contact the email address above. Because Pitch Please does not use an account or collect your name or email in telemetry, it may not be possible to associate an installation's data with you.
+
 ## Third-Party Services
 
 The apps may rely on platform or third-party services, including:
@@ -61,6 +67,7 @@ The apps may rely on platform or third-party services, including:
 - Apple App Store and StoreKit for downloads, purchases, and subscriptions
 - Apple iCloud for user-enabled sync in apps that support it
 - Google Mobile Ads and Google User Messaging Platform for ads and consent in Pitch Please and Oekelino
+- [Google Firebase](https://firebase.google.com/support/privacy) and Google Analytics for optional usage and diagnostics in Pitch Please
 - GitHub for public support issues
 
 Those services process information according to their own privacy policies and user settings.
@@ -71,7 +78,7 @@ This policy may be updated when app features, third-party services, or legal req
 
 # Privacybeleid
 
-Ingangsdatum: 2026-05-19
+Ingangsdatum: 2026-09-29
 
 Dit beleid geldt voor iOS-apps van Samuel Spithorst, waaronder Rolless, Pitch Please en Oekelino.
 
@@ -99,6 +106,10 @@ Pitch Please gebruikt Google Mobile Ads en Google's User Messaging Platform om a
 
 Pitch Please bewaart appvoorkeuren en oefenstatus op je apparaat.
 
+Als je kiest voor Share Usage and Diagnostics, gebruikt Pitch Please Google Firebase Analytics, Crashlytics en Performance Monitoring om inzicht te krijgen in het gebruik van de hulpmiddelen, terugkerend gebruik, crashes en prestaties. Dit kan installatie-identifiers, app- en apparaatinformatie, geschatte locatie op basis van netwerkgegevens, interacties met hulpmiddelen en schermen, oefenresultaten, uitkomsten van aankoopstappen en diagnostische gegevens omvatten. Microfoonaudio, toonhoogtegeschiedenis, zelfgekozen stemmingsnamen en aankoopbewijzen worden niet meegestuurd.
+
+Deze gebruiks- en diagnostische gegevens worden niet gebruikt voor gepersonaliseerde advertenties. De keuze om te delen staat los van advertentietoestemming. Je kunt delen op elk moment uitschakelen in Instellingen. Uitschakelen stopt verdere verzameling en verzending van telemetrie en wist wachtende lokale Analytics-gegevens en beschikbare niet-verzonden crashrapporten. Gegevens die Google al heeft verwerkt, worden daarmee niet verwijderd. Installatie-identifiers meten terugkerend gebruik binnen een app-installatie en identificeren je niet op basis van je naam of e-mailadres.
+
 ## Oekelino
 
 Oekelino is een persoonlijke woordcollectie-app.
@@ -125,6 +136,8 @@ Gegevens die lokaal in een app worden opgeslagen, blijven op je apparaat totdat 
 
 Supportberichten worden bewaard zolang dat nodig is om het verzoek te beantwoorden en projectgeschiedenis te onderhouden.
 
+Voor Pitch Please worden gebruiks- en diagnostische gegevens die na je toestemming zijn verstuurd, bewaard in Google Firebase en Google Analytics volgens de ingestelde bewaartermijnen en Google's beleid. Voor vragen of een verzoek om verwijdering kun je contact opnemen via het bovenstaande e-mailadres. Omdat Pitch Please geen account gebruikt en je naam of e-mailadres niet in telemetrie verzamelt, is het mogelijk dat gegevens van een installatie niet aan jou kunnen worden gekoppeld.
+
 ## Diensten van derden
 
 De apps kunnen platform- of derdendiensten gebruiken, waaronder:
@@ -132,6 +145,7 @@ De apps kunnen platform- of derdendiensten gebruiken, waaronder:
 - Apple App Store en StoreKit voor downloads, aankopen en abonnementen
 - Apple iCloud voor door gebruikers ingeschakelde synchronisatie in apps die dit ondersteunen
 - Google Mobile Ads en Google User Messaging Platform voor advertenties en toestemming in Pitch Please en Oekelino
+- [Google Firebase](https://firebase.google.com/support/privacy) en Google Analytics voor optionele gebruiks- en diagnostische gegevens in Pitch Please
 - GitHub voor openbare supportissues
 
 Deze diensten verwerken informatie volgens hun eigen privacybeleid en gebruikersinstellingen.
