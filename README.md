@@ -1,18 +1,18 @@
 # Support
 
-Support for apps made by Samuel Spithorst.
+Support for apps made by Samuel Spithorst, operating as Samuwhale.
 
 If you found a bug, have a question, or want to request a feature, use one of the contact options below.
 
 ## Contact
 
-**Email:** [sfspithorst@gmail.com](mailto:sfspithorst@gmail.com)
+**Email:** [contact@spithorst.net](mailto:contact@spithorst.net)
 
 **GitHub:** [Open an issue](https://github.com/Samuwhale/Support/issues/new) for bug reports, feature requests, and public follow-up.
 
 ## Nederlands
 
-Ondersteuning voor Oekelino is ook in het Nederlands beschikbaar. Stuur een e-mail naar [sfspithorst@gmail.com](mailto:sfspithorst@gmail.com) met je apparaatmodel, iOS-versie, appversie en een korte beschrijving van wat je verwachtte en wat er gebeurde.
+Ondersteuning voor Oekelino is ook in het Nederlands beschikbaar. Stuur een e-mail naar [contact@spithorst.net](mailto:contact@spithorst.net) met je apparaatmodel, iOS-versie, appversie en een korte beschrijving van wat je verwachtte en wat er gebeurde.
 
 ## Apps
 

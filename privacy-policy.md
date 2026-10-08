@@ -4,7 +4,7 @@ Effective date: 2026-09-29
 
 This policy applies to iOS apps made by Samuel Spithorst, including Rolless, Pitch Please, and Oekelino.
 
-Contact: [sfspithorst@gmail.com](mailto:sfspithorst@gmail.com)
+Contact: [contact@spithorst.net](mailto:contact@spithorst.net)
 
 ## Rolless
 
@@ -82,7 +82,7 @@ Ingangsdatum: 2026-09-29
 
 Dit beleid geldt voor iOS-apps van Samuel Spithorst, waaronder Rolless, Pitch Please en Oekelino.
 
-Contact: [sfspithorst@gmail.com](mailto:sfspithorst@gmail.com)
+Contact: [contact@spithorst.net](mailto:contact@spithorst.net)
 
 ## Rolless
 
