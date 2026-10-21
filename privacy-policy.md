@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Effective date: 2026-09-29
+Effective date: 2026-10-21
 
 This policy applies to iOS apps made by Samuel Spithorst, including Rolless, Pitch Please, and Oekelino.
 
@@ -12,9 +12,13 @@ Rolless helps you review photo cleanup candidates on your iPhone.
 
 Rolless scans Photo Library items that you allow it to see. That scan runs on your device. Rolless does not upload your photos to a server controlled by Samuel Spithorst, require an account, or use analytics.
 
-Rolless can ask Photos to delete items you placed in Pending. Photos shows its own confirmation before deletion. Rolless does not delete automatically.
+Rolless can ask Photos to delete items you placed in Remove. Photos shows its own confirmation before deletion. Rolless does not delete automatically.
 
-Rolless stores cleanup state and app preferences on your device.
+Rolless offers optional annual and lifetime purchases through Apple's StoreKit system. Apple handles purchase processing, subscription management, refunds, and billing. Rolless receives purchase entitlement information from Apple to unlock paid features.
+
+Rolless uses Google Mobile Ads and Google's User Messaging Platform to show ads on the free plan and manage consent where required. Google and its advertising partners may process device information, ad interactions, approximate location inferred from network data, identifiers, and consent choices according to Google's policies and your regional choices. Rolless does not share your photos or photo analysis with advertising services. Paid plans include ad-free cleanup.
+
+Rolless stores cleanup state, app preferences, and review-request timing on your device.
 
 ## Pitch Please
 
@@ -66,7 +70,7 @@ The apps may rely on platform or third-party services, including:
 
 - Apple App Store and StoreKit for downloads, purchases, and subscriptions
 - Apple iCloud for user-enabled sync in apps that support it
-- Google Mobile Ads and Google User Messaging Platform for ads and consent in Pitch Please and Oekelino
+- Google Mobile Ads and Google User Messaging Platform for ads and consent in Rolless, Pitch Please, and Oekelino
 - [Google Firebase](https://firebase.google.com/support/privacy) and Google Analytics for optional usage and diagnostics in Pitch Please
 - GitHub for public support issues
 
@@ -78,7 +82,7 @@ This policy may be updated when app features, third-party services, or legal req
 
 # Privacybeleid
 
-Ingangsdatum: 2026-09-29
+Ingangsdatum: 2026-10-21
 
 Dit beleid geldt voor iOS-apps van Samuel Spithorst, waaronder Rolless, Pitch Please en Oekelino.
 
@@ -90,9 +94,13 @@ Rolless helpt je op je iPhone foto's te beoordelen die mogelijk kunnen worden op
 
 Rolless scant de Foto's-bibliotheekitems waarvoor je toegang geeft. Die scan gebeurt op je apparaat. Rolless uploadt je foto's niet naar een server van Samuel Spithorst, vereist geen account en gebruikt geen analytics.
 
-Rolless kan Foto's vragen om items te verwijderen die je in Wachtend hebt geplaatst. Foto's toont daarvoor een eigen bevestiging. Rolless verwijdert niet automatisch.
+Rolless kan Foto's vragen om items te verwijderen die je in Remove hebt geplaatst. Foto's toont daarvoor een eigen bevestiging. Rolless verwijdert niet automatisch.
 
-Rolless bewaart opruimstatus en appvoorkeuren op je apparaat.
+Rolless biedt een optioneel jaarabonnement en een eenmalige aankoop via Apple's StoreKit-systeem. Apple verwerkt aankopen, abonnementen, terugbetalingen en facturering. Rolless ontvangt aankooprechten van Apple om betaalde functies te ontgrendelen.
+
+Rolless gebruikt Google Mobile Ads en Google's User Messaging Platform om advertenties te tonen bij het gratis gebruik en toestemming te beheren waar dat vereist is. Google en advertentiepartners kunnen apparaatinformatie, advertentie-interacties, geschatte locatie op basis van netwerkgegevens, identifiers en toestemmingskeuzes verwerken volgens Google's beleid en je regionale keuzes. Rolless deelt je foto's of fotoanalyse niet met advertentiediensten. Met een betaald plan ruim je zonder advertenties op.
+
+Rolless bewaart opruimstatus, appvoorkeuren en gegevens over het moment van beoordelingsverzoeken op je apparaat.
 
 ## Pitch Please
 
@@ -144,7 +152,7 @@ De apps kunnen platform- of derdendiensten gebruiken, waaronder:
 
 - Apple App Store en StoreKit voor downloads, aankopen en abonnementen
 - Apple iCloud voor door gebruikers ingeschakelde synchronisatie in apps die dit ondersteunen
-- Google Mobile Ads en Google User Messaging Platform voor advertenties en toestemming in Pitch Please en Oekelino
+- Google Mobile Ads en Google User Messaging Platform voor advertenties en toestemming in Rolless, Pitch Please en Oekelino
 - [Google Firebase](https://firebase.google.com/support/privacy) en Google Analytics voor optionele gebruiks- en diagnostische gegevens in Pitch Please
 - GitHub voor openbare supportissues
 
